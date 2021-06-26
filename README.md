@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![banner](https://user-images.githubusercontent.com/62843267/123500351-188be780-d603-11eb-8300-28fc0c095fe4.png)
 
 **JuanPa2020/JuanPa2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
