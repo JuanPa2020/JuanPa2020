@@ -1,6 +1,6 @@
 Hi everybody, I'm JuanPa 👋
 
-![derechos humanos](https://user-images.githubusercontent.com/62843267/123501618-d4e9ab80-d60b-11eb-8487-bf14de272393.png)
+![banner personal](https://user-images.githubusercontent.com/62843267/123527053-ea111980-d6a1-11eb-8c71-e0ab5d460b11.png)
 
 ✨JUANPA2020✨
 
