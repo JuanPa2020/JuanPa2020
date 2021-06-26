@@ -1,7 +1,4 @@
 Hi everybody, I'm JuanPa 👋
-
-![banner personal](https://user-images.githubusercontent.com/62843267/123527053-ea111980-d6a1-11eb-8c71-e0ab5d460b11.png)
-
 ✨JUANPA2020✨
 
 - 🔭 I'm currently finishing my degree in systems.
