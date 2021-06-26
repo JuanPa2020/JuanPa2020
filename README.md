@@ -1,12 +1,12 @@
-Hi everybody 👋
+Hi everybody, I'm JuanPa 👋
 
-![banner](https://user-images.githubusercontent.com/62843267/123500636-2a6e8a00-d605-11eb-9fd5-c1f222d444ab.png)
+![derechos humanos](https://user-images.githubusercontent.com/62843267/123501618-d4e9ab80-d60b-11eb-8487-bf14de272393.png)
 
 ✨JUANPA2020✨
 
-- 🔭 I am currently finishing my degree in systems.
-- 🌱 I am learning new technologies like kotlin, react and more.
-- 👯 I am looking to collaborate to improve my technical and soft skills every day.
+- 🔭 I'm currently finishing my degree in systems.
+- 🌱 I'm learning new technologies like kotlin, react and more.
+- 👯 I'm looking to collaborate to improve my technical and soft skills every day.
 - 📫 How to contact me: juanpablogutierrezlopez@gmail.com.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPa2020)](https://github.com/anuraghazra/github-readme-stats)
