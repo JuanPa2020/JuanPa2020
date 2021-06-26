@@ -1,6 +1,6 @@
 Hi everybody 👋
 
-![banner](https://user-images.githubusercontent.com/62843267/123500351-188be780-d603-11eb-8300-28fc0c095fe4.png)
+![banner](https://user-images.githubusercontent.com/62843267/123500636-2a6e8a00-d605-11eb-9fd5-c1f222d444ab.png)
 
 ✨JUANPA2020✨
 
