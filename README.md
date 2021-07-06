@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently finishing my degree in systems.
 - 🌱 I'm learning new technologies like kotlin, react and more.
-- 👯 I'm looking to collaborate to improve my technical and soft skills every day.
+- 👌 I'm looking to collaborate to improve my technical and soft skills every day.
 - 📫 How to contact me: juanpablogutierrezlopez@gmail.com.
 
 ## Skills:
@@ -20,14 +20,5 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 And more...
-
-## Find me at:
-
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/channel/UCPPnUduKA18c_rpw-hriGDA)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPa2020)](https://github.com/anuraghazra/github-readme-stats)
